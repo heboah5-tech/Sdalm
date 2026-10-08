@@ -1,0 +1,8 @@
+{
+  "name": "سلامة المركبات",
+  "description": "منصة الفحص الفني الدوري - سلامة المركبات",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "permissions": []
+}
